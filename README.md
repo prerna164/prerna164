@@ -73,6 +73,10 @@ B.Tech CSE Student | Full Stack Developer | DSA Enthusiast
   <a href="https://leetcode.com/u/prerna_rathore/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+
+  <a href="https://codolio.com/profile/WeirdO">
+  <img src="https://img.shields.io/badge/Codolio-Profile-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 </p>
 
 ---
@@ -128,18 +132,15 @@ B.Tech CSE Student | Full Stack Developer | DSA Enthusiast
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=prerna164&theme=tokyonight&hide_border=false" />
 </p>
-
----
-
+----
 # 📌 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| **LeetCode POTD** | Daily LeetCode Problem of the Day solutions with explanations |
-| **CodeBloom** | AI-powered code reviewer application |
-| **Smart Agriculture App** | Agriculture app idea for farmers, schemes, updates, and farming help |
-
----
+| Project                   | Description                                                                                                              | Repository                                                 |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| **LeetCode POTD**         | Daily LeetCode Problem of the Day solutions with explanations and complexity analysis.                                   | [🔗 View Repo](https://github.com/prerna164/Leetcode-POTD) |
+| **CodeBloom**             | AI-powered code reviewer application that analyzes code quality, detects issues, and suggests optimizations.             | [🔗 View Repo](https://github.com/prerna164/CODEBLOOM)     |
+| **Smart Agriculture App** | Agriculture-focused mobile application for farmers featuring schemes, news, farming assistance, and AI-powered insights. | 🚧 Work In Progress                                        |
+----
 
 # 👀 Profile Visitors
 
